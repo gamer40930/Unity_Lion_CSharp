@@ -19,7 +19,8 @@ public class Ship : MonoBehaviour
     // set 可以存放
     // 讀取權限屬性
     // 屬性不會顯示在屬性面板上 (ODIN) - UnityEditor
-    public float lenght { get; set; }   // 輸入 prop 按兩下 TAB 鍵，會自動出現這串語法，修改類型後在按下兩下 TAB 鍵
+
+    public float length { get; set; }   // 輸入 prop 按兩下 TAB 鍵，會自動出現這串語法，修改類型後在按下兩下 TAB 鍵
     #endregion
 
 
@@ -56,4 +57,10 @@ public class Ship : MonoBehaviour
     // value 設定屬性時給予的值
     private float _atk;
     public float Atk { get { return _atk; } set { _atk = value *lv ; } }
+
+
+    //使用快速完成的黏巴達寫法 48 行與 52 行是相同的，只是版本不同
+    public float Def { get => def; set => def = value * lv; }
+
+    private float def;
 }
