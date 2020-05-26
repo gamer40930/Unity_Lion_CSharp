@@ -21,7 +21,7 @@ public class Class06_practice : MonoBehaviour
         // 練習 4 : 非靜態方法
         ball.AddForce(0, 500,1000);
 
-
+        // 靜態 可以直接使用，非靜態 要宣告屬性和欄位
     }
 
     
