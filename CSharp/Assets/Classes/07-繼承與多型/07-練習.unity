@@ -197,7 +197,7 @@ RectTransform:
   m_GameObject: {fileID: 246149104}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.85463, y: 0.85463, z: 0.85463}
+  m_LocalScale: {x: 1.9025576, y: 1.9025576, z: 1.9025576}
   m_Children:
   - {fileID: 1789044176}
   m_Father: {fileID: 1859480749}
@@ -205,7 +205,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -167.82, y: 129}
+  m_AnchoredPosition: {x: -371, y: 290.65}
   m_SizeDelta: {x: 57.7, y: 57.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &246149106
@@ -398,14 +398,14 @@ RectTransform:
   m_GameObject: {fileID: 332175658}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.85463, y: 0.85463, z: 0.85463}
+  m_LocalScale: {x: 1.9025576, y: 1.9025576, z: 1.9025576}
   m_Children: []
   m_Father: {fileID: 1859480749}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.8445, y: 197.87997}
+  m_AnchoredPosition: {x: 15.618, y: 444}
   m_SizeDelta: {x: 844.5, y: 16.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &332175660
@@ -555,7 +555,7 @@ RectTransform:
   m_GameObject: {fileID: 606281872}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.85463, y: 0.85463, z: 0.85463}
+  m_LocalScale: {x: 1.9025576, y: 1.9025576, z: 1.9025576}
   m_Children:
   - {fileID: 1491751567}
   m_Father: {fileID: 1859480749}
@@ -563,7 +563,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -287.47, y: 128.99998}
+  m_AnchoredPosition: {x: -637.36, y: 290.65}
   m_SizeDelta: {x: 57.7, y: 57.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &606281874
@@ -960,14 +960,14 @@ RectTransform:
   m_GameObject: {fileID: 855461570}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.85463, y: 0.85463, z: 0.85463}
+  m_LocalScale: {x: 1.9025576, y: 1.9025576, z: 1.9025576}
   m_Children: []
   m_Father: {fileID: 1859480749}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.8445, y: 197.87997}
+  m_AnchoredPosition: {x: 15.618, y: 444}
   m_SizeDelta: {x: 844.5, y: 16.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &855461572
@@ -1034,7 +1034,7 @@ RectTransform:
   m_GameObject: {fileID: 1025106071}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.85463, y: 0.85463, z: 0.85463}
+  m_LocalScale: {x: 1.9025576, y: 1.9025576, z: 1.9025576}
   m_Children:
   - {fileID: 312406907}
   m_Father: {fileID: 1859480749}
@@ -1042,7 +1042,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -225.08, y: 128.99998}
+  m_AnchoredPosition: {x: -498.47, y: 290.65}
   m_SizeDelta: {x: 57.7, y: 57.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1025106073
@@ -1352,7 +1352,7 @@ RectTransform:
   m_GameObject: {fileID: 1084793670}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.85463, y: 0.85463, z: 0.85463}
+  m_LocalScale: {x: 1.9025576, y: 1.9025576, z: 1.9025576}
   m_Children:
   - {fileID: 828554780}
   m_Father: {fileID: 1859480749}
@@ -1360,7 +1360,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -346.31, y: 128.99998}
+  m_AnchoredPosition: {x: -768.36, y: 290.65}
   m_SizeDelta: {x: 57.7, y: 57.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1084793672
@@ -1808,7 +1808,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
