@@ -1,5 +1,6 @@
 sceneSetups:
-- path: "Assets/Classes/09-\u59D4\u6D3E\u8207\u4E8B\u4EF6/09-\u59D4\u6D3E\u8207\u4E8B\u4EF6.unity"
+- path: "Assets/Classes/10-\u578B\u3001\u96C6\u5408\u8207 LinQ/10-\u6CDB\u578B\u3001\u96C6\u5408\u8207
+    LinQ.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
